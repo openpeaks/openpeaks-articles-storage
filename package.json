@@ -1,0 +1,31 @@
+{
+  "name": "openpeaks-articles-storage",
+  "version": "0.0.1",
+  "description": "Openpeaks articles storage module",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openpeaks/openpeaks-articles-storage.git"
+  },
+  "keywords": [
+    "openpeaks",
+    "storage",
+    "articles"
+  ],
+  "author": "Dumitru Cantea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openpeaks/openpeaks-articles-storage/issues"
+  },
+  "homepage": "https://github.com/openpeaks/openpeaks-articles-storage",
+  "dependencies": {
+    "atonic": "^1.0.4",
+    "bluebird": "^3.0.5",
+    "lodash": "^3.10.1",
+    "mongoose": "^4.2.5",
+    "slug": "^0.9.1"
+  }
+}
