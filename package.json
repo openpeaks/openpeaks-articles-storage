@@ -1,6 +1,6 @@
 {
   "name": "openpeaks-articles-storage",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Openpeaks articles storage module",
   "main": "./lib/index.js",
   "scripts": {
