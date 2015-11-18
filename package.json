@@ -25,7 +25,9 @@
     "atonic": "^1.0.4",
     "bluebird": "^3.0.5",
     "lodash": "^3.10.1",
+    "memory-cache": "^0.1.4",
     "mongoose": "^4.2.5",
+    "object-hash": "^0.9.2",
     "slug": "^0.9.1"
   }
 }
